@@ -1,0 +1,41 @@
+.navBarConteiner{
+    background-color: black;
+    display: inline-flex;
+    width: 100%;
+    height: 100%;
+    align-items: baseline;
+    justify-content: space-around;
+    font-style: italic;
+
+}
+
+.navContent{
+    justify-content: space-around ;
+    display: inline-flex;
+    width: 100%;
+}
+
+
+.navLink{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-size: 2rem ;
+}
+
+
+.conteinerMerch{
+    color: #ff0000;
+    text-align: center;
+    margin-left: 3%;
+    width: 25%;
+}
+
+.countries{
+    color: #ff0000;
+    margin-left: -50%;
+    font-size: 36px;
+  animation: blinking 2s infinite;
+    
+    
+    
+}

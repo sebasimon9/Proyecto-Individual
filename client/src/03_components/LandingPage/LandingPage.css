@@ -1,0 +1,39 @@
+.landingPage {
+    background-image: url("../../05_img/depositphotos_423767570-stock-photo-map-planet-world-map-global.jpg");
+    background-position: center center;
+    padding: 0;
+    width: 100vw;
+    height: 150vh;
+    display: flex;
+    position: relative;
+  }
+  
+  .landingTitle {
+    color: rgb(57, 45, 161);
+    margin-right: 150px;
+    font-size:70px;
+    position: absolute;
+    top: 15%;
+    left: 38%;
+    font-style: italic;
+  }
+  
+  .landingSubTitle {
+    color: rgb(255, 0, 0);
+    margin-top: 115px;
+    margin-left: -250px;
+    font-size:40px;
+  }
+  
+  .landingButton {
+    position: absolute;
+    top: 45%;
+    left: 38%;
+    margin: -25px 0 0 -25px;
+    border-radius: 17px;
+    border: 1px solid #ffffff;
+    padding: 20px 165px;
+    background-color: white;
+    cursor:pointer;
+  }
+  
